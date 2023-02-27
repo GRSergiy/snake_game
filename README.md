@@ -1,5 +1,5 @@
 # snake_game
-Python: The Snake game is a classic arcade game that was first introduced in the late 1970s. The objective of the game is to control a snake that moves around a game board, eating food and growing longer with each bite. The game ends when the snake either collides with the walls or its own body.
+The Snake game is a classic arcade game that was first introduced in the late 1970s. The objective of the game is to control a snake that moves around a game board, eating food and growing longer with each bite. The game ends when the snake either collides with the walls or its own body.
 
 1.The game board is a grid that is rectangular in shape. The snake begins at one end of the board and the food is randomly placed on the board.
 2.The player controls the snake using the arrow keys on the keyboard. The snake moves in the direction of the arrow key pressed by the player.
